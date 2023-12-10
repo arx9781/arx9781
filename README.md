@@ -1,4 +1,5 @@
-![Desktop - 1](https://github.com/arx9781/arx9781/assets/107541824/de715a8e-9ec2-4c0f-bd9d-49e966913bbd)
+
+![Github BG](https://github.com/arx9781/arx9781/assets/107541824/ebcf2149-f912-41af-a3fc-9a0f8503007c)
 
 https://www.instagram.com/arx9781/  
 
