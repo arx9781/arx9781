@@ -1,22 +1,24 @@
 <h3>
   <code>current status</code>
 </h3>
-a software engineering student, with a heavy emphasis on front-end development
+existing, on the terminal.
 
 <h3>
   <code>working on</code>
 </h3>
-learning react and next — building mock websites and playing with APIs
+learning react and next — creating design interfaces /
 
 <h3>
   <code>random stuff about me</code>
 </h3>
 
-- my design language is minimalism, i like simple and visually pleasing websites
-- my go-to tech stack is react, typescript and tailwind. 
-- i play mobile legends `(kinda good at it actually)` and valorant `(kinda bad at it actually)`
-- love watching anime, i have seen over a 100 at this point
-- to know more, [go to my website](https://arcen-pers.vercel.app/)
+- i love to create minimal, monochromatic designs.
+- my go-to tech stack is nextjs, typescript and tailwind. 
+- occasionally go out and touch grass (kinda important, appararently)
+- love watching anime, i have seen over a 100 at this point.
+- really love consuming space opera of any medium.
+- casual gamer, the only game i somewhat play is mobile legends.
+- if you jus wanna hangout, dm me on [discord](https://discord.gg/TM6Z2GRf)
 
 <h3>
   <code>misc.</code>
